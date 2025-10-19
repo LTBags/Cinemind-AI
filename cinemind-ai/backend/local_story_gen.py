@@ -1,0 +1,1 @@
+(local_story_gen.py content as written above)
